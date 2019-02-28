@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SampleLibrary</string>
+    <string name="sample_button">Sample button</string>
+</resources>
